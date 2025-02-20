@@ -58,8 +58,8 @@ int main() {
     scanf("%d", &turisticos2);
 
     
-
-    printf("\n Estado: %s \n",estado1);
+    printf("Carta 1: \n");
+    printf("Estado: %s \n",estado1);
     printf("Código: %s \n",codigo1);
     printf("Nome da cidade: %s \n",nome1);
     printf("População: %d \n",pop1);
@@ -68,7 +68,8 @@ int main() {
     printf("Número de pontos turísticos: %d \n \n",turisticos1);
 
 
-    printf("\n Estado: %s \n",estado2);
+    printf("Carta 2: \n");
+    printf("Estado: %s \n",estado2);
     printf("Código: %s \n",codigo2);
     printf("Nome da cidade: %s \n",nome2);
     printf("População: %d \n",pop2);
